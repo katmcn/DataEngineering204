@@ -73,4 +73,12 @@ Returns bools
 Control flow
 
 
-/Users/katyamcneill/Desktop/Screenshot 2023-01-24 at 07.37.07.png
+
+
+Terminal Commands
+- Navigate to relevant folder with cd ~//
+- Git add . 
+- Git commit -m””
+- Git push
+- I had to generate an access token as normal authentication was failing
+
